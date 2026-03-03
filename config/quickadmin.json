@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "passwordHash": "yUAuxbbms7h1S1pU5UHFi59CeIqLNOFDO0EGuIawESQ=",
+    "passwordSalt": "VNhPF6aKKVvGmYw0lMco0g==",
+    "iterations": 100000
+  },
+  "server": {
+    "bindAddress": "127.0.0.1",
+    "port": 8600,
+    "allowLanAccess": false
+  },
+  "sessionTimeoutMinutes": 15,
+  "customCommands": [],
+  "wolTargets": []
+}
